@@ -1,0 +1,10 @@
+C:\Users\agusp\source\repos\Practico1\Practico1\bin\Debug\Practico1.exe.config
+C:\Users\agusp\source\repos\Practico1\Practico1\bin\Debug\Practico1.exe
+C:\Users\agusp\source\repos\Practico1\Practico1\bin\Debug\Practico1.pdb
+C:\Users\agusp\source\repos\Practico1\Practico1\bin\Debug\Shared.dll
+C:\Users\agusp\source\repos\Practico1\Practico1\bin\Debug\Shared.pdb
+C:\Users\agusp\source\repos\Practico1\Practico1\obj\Debug\Practico1.csproj.AssemblyReference.cache
+C:\Users\agusp\source\repos\Practico1\Practico1\obj\Debug\Practico1.csproj.CoreCompileInputs.cache
+C:\Users\agusp\source\repos\Practico1\Practico1\obj\Debug\Practico1.csproj.CopyComplete
+C:\Users\agusp\source\repos\Practico1\Practico1\obj\Debug\Practico1.exe
+C:\Users\agusp\source\repos\Practico1\Practico1\obj\Debug\Practico1.pdb
